@@ -23,3 +23,5 @@
 <sub><i>«Night is the time when the world shows its true colors.»</i></sub>
 
 </div>
+
+<!-- Co-developed with Google Gemini AI -->
